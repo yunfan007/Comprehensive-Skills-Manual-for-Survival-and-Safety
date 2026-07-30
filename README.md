@@ -1,7 +1,5 @@
 极端环境生存与安全综合技能手册
-https://img.shields.io/badge/status-stable-brightgreen
-https://img.shields.io/badge/version-Rev.7-blue
-https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87-important
+
 
 📖 简介
 本手册是一本面向 个人与小团队 的系统性生存安全行动指南。内容涵盖态势感知、信息收集与验证、导航与路线规划、痕迹管理、隐蔽与反侦察、自卫脱困、团队战术协同、野外生存、应急医疗、心理韧性建设及通讯信号等核心技能，构建了一套从 危机识别 → 行动响应 → 医疗自救 → 心理维持 → 安全脱困 的完整操作链路。
